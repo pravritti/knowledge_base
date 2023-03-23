@@ -1,2 +1,0 @@
-# Cosmology/About 
-
