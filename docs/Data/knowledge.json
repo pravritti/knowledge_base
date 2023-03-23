@@ -1,0 +1,198 @@
+{
+    "Knowledge": {
+        "Natural Sciences": {
+            "Physics": [
+                "Astrophysicist",
+                "Nuclear Physicist",
+                "Condensed Matter Physicist",
+                "Particle Physicist",
+                "Geophysicist"
+            ],
+            "Chemistry": [
+                "Analytical Chemist",
+                "Organic Chemist",
+                "Inorganic Chemist",
+                "Physical Chemist",
+                "Biochemist"
+            ],
+            "Biology": [
+                "Zoologist",
+                "Botanist",
+                "Microbiologist",
+                "Geneticist",
+                "Ecologist",
+                "Marine Biologist",
+                "Biotechnologist"
+            ],
+            "Earth Sciences": [
+                "Geologist",
+                "Meteorologist",
+                "Oceanographer",
+                "Seismologist",
+                "Environmental Scientist"
+            ]
+        },
+        "Social Sciences": {
+            "Psychology": [
+                "Clinical Psychologist",
+                "Cognitive Psychologist",
+                "Developmental Psychologist",
+                "Social Psychologist",
+                "Forensic Psychologist"
+            ],
+            "Sociology": [
+                "Urban Sociologist",
+                "Medical Sociologist",
+                "Environmental Sociologist",
+                "Criminologist",
+                "Demographer"
+            ],
+            "Anthropology": [
+                "Cultural Anthropologist",
+                "Linguistic Anthropologist",
+                "Archaeologist",
+                "Biological Anthropologist"
+            ],
+            "Political Science": [
+                "Political Scientist",
+                "Public Policy Analyst",
+                "International Relations Specialist",
+                "Political Consultant"
+            ],
+            "Economics": [
+                "Economist",
+                "Macroeconomist",
+                "Microeconomist",
+                "Econometrician",
+                "Development Economist"
+            ]
+        },
+        "Humanities": {
+            "History": [
+                "Historian",
+                "Archivist",
+                "Art Historian",
+                "Military Historian"
+            ],
+            "Literature": [
+                "Author",
+                "Literary Critic",
+                "Poet",
+                "Playwright",
+                "Editor"
+            ],
+            "Philosophy": [
+                "Ethicist",
+                "Metaphysician",
+                "Epistemologist",
+                "Aesthetics Philosopher"
+            ],
+            "Arts": [
+                "Visual Artist",
+                "Musician",
+                "Dancer",
+                "Actor",
+                "Theater Director",
+                "Cinematographer"
+            ],
+            "Languages": [
+                "Linguist",
+                "Translator",
+                "Interpreter",
+                "Language Teacher"
+            ]
+        },
+        "Formal Sciences": {
+            "Mathematics": [
+                "Mathematician",
+                "Statistician",
+                "Actuary",
+                "Cryptographer",
+                "Operations Research Analyst"
+            ],
+            "Computer Science": [
+                "Software Engineer",
+                "Data Scientist",
+                "Network Administrator",
+                "Cybersecurity Analyst",
+                "Web Developer",
+                "UX/UI Designer"
+            ],
+            "Logic": [
+                "Logician",
+                "Artificial Intelligence Researcher",
+                "Philosophy of Logic"
+            ]
+        },
+        "Applied Sciences": {
+            "Engineering": [
+                "Civil Engineer",
+                "Mechanical Engineer",
+                "Electrical Engineer",
+                "Chemical Engineer",
+                "Aerospace Engineer",
+                "Biomedical Engineer",
+                "Computer Engineer"
+            ],
+            "Medicine": [
+                "Physician",
+                "Surgeon",
+                "Psychiatrist",
+                "Dentist",
+                "Pharmacist",
+                "Nurse",
+                "Physical Therapist",
+                "Veterinarian"
+            ]
+        },
+        "Business and Management": [
+            "Entrepreneur",
+            "Financial Analyst",
+            "Human Resources Manager",
+            "Marketing Specialist",
+            "Operations Manager",
+            "Supply Chain Analyst",
+            "Project Manager",
+            "Accountant",
+            "Consultant"
+        ],
+        "Education and Training": [
+            "Teacher",
+            "School Administrator",
+            "Instructional Designer",
+            "Curriculum Developer",
+            "Special Education Specialist",
+            "School Counselor",
+            "Educational Researcher"
+        ],
+        "Law and Legal Studies": [
+            "Lawyer",
+            "Paralegal",
+            "Legal Secretary",
+            "Judge",
+            "Arbitrator",
+            "Mediator",
+            "Compliance Officer"
+        ],
+        "Communication and Media": [
+            "Journalist",
+            "Public Relations Specialist",
+            "Technical Writer",
+            "Copywriter",
+            "Social Media Manager",
+            "Film and Television Producer",
+            "Radio Broadcaster",
+            "Photographer"
+        ],
+        "Agriculture and Environmental Sciences": [
+            "Agronomist",
+            "Horticulturist",
+            "Animal Scientist",
+            "Soil Scientist",
+            "Agricultural Engineer",
+            "Fisheries Scientist",
+            "Wildlife Biologist",
+            "Conservationist"
+        ]
+    }
+}
